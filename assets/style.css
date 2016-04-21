@@ -1,0 +1,35 @@
+.container{
+  width: 800px;
+  height: 600px;
+  margin: 0 auto;
+  border: 2px solid black;
+}
+h1{
+  width: 800px;
+  margin-left: 300px;
+}
+.form{
+  width: 162px;
+  display: block;
+}
+input{
+  display: inline-block;
+  margin: 5px;
+}
+select{
+  margin: 18 auto;
+  width: 400px;
+}
+.place, .language, .comments{
+  margin: 20px;
+  display: block;
+}
+.submit{
+  display: inline-block;
+  border-radius: 6px;
+  width: 55px;
+  background-color: blue;
+  border: 2px solid black;
+  color: white;
+  font-weight: bold; 
+}
